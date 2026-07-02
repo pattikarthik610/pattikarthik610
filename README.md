@@ -1,25 +1,28 @@
-## Hi there 👋
+Hi, I'm Karthik Patti 👋
 
-Hello! I'm Karthik, a Computer Science student passionate about technology, problem-solving, and continuous learning.
+🎓 Computer Science and Engineering Student
 
-I am actively building expertise in Data Structures & Algorithms, Database Management Systems, SQL, Python, Data Analytics, Power BI, Excel, and Computer Science fundamentals. I regularly solve coding challenges on LeetCode and HackerRank to improve my analytical thinking, coding efficiency, and problem-solving skills.
+I am passionate about technology, problem-solving, and continuous learning. My GitHub serves as a portfolio of my learning journey, where I regularly upload coding solutions, academic projects, and hands-on practice work.
 
-My learning journey includes GATE preparation, strengthening core subjects such as Digital Logic Design, Computer Organization, Operating Systems, Database Management Systems, and Computer Networks. I enjoy applying theoretical concepts to real-world projects and continuously expanding my technical knowledge.
-
+What I'm Currently Working On:
+-->Solving Data Structures and Algorithms problems on LeetCode and HackerRank
+-->Strengthening my knowledge of C, Python, SQL, DBMS, and Operating Systems
+-->Preparing for GATE and Software Engineering internships
+-->Building projects in Power BI, Excel, and Python
+-->Improving problem-solving and coding skills through daily practice
 Technical Skills:
-• Programming: Python, C
-• Data Structures & Algorithms (DSA)
-• Database Management Systems (DBMS)
-• SQL & MySQL
-• Data Analytics
-• Power BI
-• Microsoft Excel
-• Git & GitHub
-• Problem Solving & Competitive Programming
-• Computer Networks
-• Operating Systems
-• Digital Logic Design
-• Object-Oriented Programming (OOP)
+-->Programming Languages: C, Python, SQL
+-->Data Structures & Algorithms
+-->Database Management Systems (DBMS)
+-->Power BI & Data Visualization
+-->Microsoft Excel
+-->Git & GitHub
+Goals:
+-->Secure a  Internships
+-->.Contribute to impactful projects
+-->Continuously learn and grow as a technology professional
+
+Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me!
 
 I believe in consistent learning, practical implementation, and continuous improvement. I am always eager to connect with professionals, mentors, and fellow learners to exchange knowledge and explore opportunities in technology and innovation.
 
